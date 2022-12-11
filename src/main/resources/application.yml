@@ -12,4 +12,4 @@ spring:
           uri: https://github.com/chiranwettewa/Shopping-cart-app-configuration
 logging:
   file:
-    name: D:/logs/configuration-management-service.log
+    name: E:/logs/configuration-management-service.log
