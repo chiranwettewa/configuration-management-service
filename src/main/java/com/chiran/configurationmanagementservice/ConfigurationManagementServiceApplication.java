@@ -9,7 +9,6 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 public class ConfigurationManagementServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ConfigurationManagementServiceApplication.class, args);
-
 	}
 
 }
